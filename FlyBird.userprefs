@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DecorationGC.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="15" Column="3" />
+      <File FileName="Assets/Scripts/BirdController.cs" Line="22" Column="18" />
+      <File FileName="Assets/Scripts/RepeatedBackGround.cs" Line="21" Column="53" />
+      <File FileName="Assets/Scripts/DecorationCreater.cs" Line="20" Column="58" />
+      <File FileName="Assets/Scripts/DecorationGC.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
